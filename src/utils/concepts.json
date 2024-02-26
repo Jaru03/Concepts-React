@@ -1,0 +1,42 @@
+[
+    {
+        "tittle": "Componentes",
+        "concept": "Los componentes son los bloques de construcción fundamentales de una aplicación React. Son piezas de código reutilizables que encapsulan lógica, estado y presentación. Hay dos tipos principales: Componentes de clase y Componentes funcionales."
+    },
+    {
+        "tittle": "JSX",
+        "concept": "JSX es una sintaxis especial que permite escribir HTML dentro de JavaScript. Se utiliza para crear la estructura visual de los componentes."
+    },
+    {
+        "tittle": "Estado",
+        "concept": "El estado es un valor mutable que puede cambiar con el tiempo. Se utiliza para almacenar datos dinámicos que se muestran en la interfaz de usuario."
+    },
+    {
+        "tittle": "Propiedades",
+        "concept": "Las propiedades son valores inmutables que se pasan de un componente a otro. Se utilizan para personalizar la apariencia y el comportamiento de los componentes."
+    },
+    {
+        "tittle": "Ciclo de vida",
+        "concept": "Los componentes tienen un ciclo de vida definido que incluye diferentes etapas como montaje, actualización y desmontaje."
+    },
+    {
+        "tittle": "Flujo de datos",
+        "concept": "React utiliza un flujo de datos unidireccional que va desde el componente padre al componente hijo."
+    },
+    {
+        "tittle": "Hooks",
+        "concept": "Los hooks son funciones especiales que permiten utilizar funcionalidades de React sin necesidad de escribir clases."
+    },
+    {
+        "tittle": "Renderizado",
+        "concept": "El proceso de actualizar la interfaz de usuario en función del estado y las propiedades de los componentes."
+    },
+    {
+        "tittle": "Rendimiento",
+        "concept": "React está diseñado para ser eficiente y rápido. Hay varias técnicas para optimizar el rendimiento de las aplicaciones React."
+    },
+    {
+        "tittle": "Herramientas",
+        "concept": "    Hay una amplia variedad de herramientas disponibles para ayudarte a desarrollar aplicaciones React."
+    }
+]
